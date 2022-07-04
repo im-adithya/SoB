@@ -1,2 +1,3 @@
-# SoB
-Summer of Bitcoin '22 progress
+<p align="center">
+    <img src="SoB.png" alt="Summer of Bitcoin" width="100%"/>
+</p>
